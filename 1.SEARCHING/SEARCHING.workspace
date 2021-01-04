@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SEARCHING" Database="" Version="10000">
+  <Project Name="LINEAR_SEARCH" Path="LINEAR_SEARCH/LINEAR_SEARCH.project" Active="No"/>
+  <Project Name="BINARY_SEARCH" Path="BINARY_SEARCH/BINARY_SEARCH.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="LINEAR_SEARCH" ConfigName="Debug"/>
+      <Project Name="BINARY_SEARCH" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LINEAR_SEARCH" ConfigName="Release"/>
+      <Project Name="BINARY_SEARCH" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
