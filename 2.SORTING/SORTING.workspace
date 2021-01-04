@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SORTING" Database="" Version="10000">
+  <Project Name="BUBBLE_SORT" Path="BUBBLE_SORT/BUBBLE_SORT.project" Active="No"/>
+  <Project Name="INSERTION_SORT" Path="INSERTION_SORT/INSERTION_SORT.project" Active="No"/>
+  <Project Name="SELECTION_SORT" Path="SELECTION_SORT/SELECTION_SORT.project" Active="Yes"/>
+  <Project Name="QUICK_SORT" Path="QUICK_SORT/QUICK_SORT.project" Active="No"/>
+  <Project Name="MERGE_SORT" Path="MERGE_SORT/MERGE_SORT.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="BUBBLE_SORT" ConfigName="Debug"/>
+      <Project Name="INSERTION_SORT" ConfigName="Debug"/>
+      <Project Name="SELECTION_SORT" ConfigName="Debug"/>
+      <Project Name="ALL_SORTINGS" ConfigName="Debug"/>
+      <Project Name="QUICK_SORT" ConfigName="Debug"/>
+      <Project Name="MERGE_SORT" ConfigName="Debug"/>
+      <Project Name="ALL_SORTINGS" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="BUBBLE_SORT" ConfigName="Release"/>
+      <Project Name="INSERTION_SORT" ConfigName="Release"/>
+      <Project Name="SELECTION_SORT" ConfigName="Release"/>
+      <Project Name="ALL_SORTINGS" ConfigName="Release"/>
+      <Project Name="QUICK_SORT" ConfigName="Release"/>
+      <Project Name="MERGE_SORT" ConfigName="Release"/>
+      <Project Name="ALL_SORTINGS" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
